@@ -1,0 +1,14 @@
+.btn-theam{
+    background-color: rgb(89, 252, 89)!important;
+    border: none;
+    width: 182px;
+    height: 40px;
+    border-radius: 5px;
+    color: #fff;
+}
+.home-right{
+background-color: aquamarine;
+}
+.home-left{
+background-color: bisque;
+}
